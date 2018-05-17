@@ -1,1 +1,5 @@
 #include "/usr/share/rofi/themes//lb.theme"
+
+rofi.theme: solarized
+rofi.font: hack 10
+rofi.modi: combi
